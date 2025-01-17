@@ -1,0 +1,8 @@
+spring:
+  jpa:
+    generate-ddl: 'true'
+    hibernate:
+      ddl-auto: update
+    show-sql: 'true'
+booking:
+  property: Booking Profile Dev
