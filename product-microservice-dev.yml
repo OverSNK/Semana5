@@ -5,4 +5,4 @@ spring:
 product:
   property: Product Profile Dev
 app:
-  testProp: Propiedad de prueba ACTUALIZADA
+  testProp: Propiedad de prueba ACTUALIZADA DOS
